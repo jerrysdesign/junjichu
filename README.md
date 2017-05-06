@@ -2,8 +2,6 @@
 
 *By JJ Hung*
 
-Source files are compiled (and copied) from the `src/` directory to the `dist/`. The `dist/` directory is empty by default and removed everytime Grunt launches to re-create / re-compile the source material to the destination directory.
-
 ## Gulp
 
 Gulp will watch for file changes to the following files:
