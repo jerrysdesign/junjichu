@@ -1,0 +1,13 @@
+{
+  "name": "ssm",
+  "private": true,
+  "dependencies": {
+    "jQuery": "~1.12.4"
+  },
+  "overrides": {
+    "jQuery": {
+      "main":
+        "dist/jquery.min.js"
+    }
+  }
+}

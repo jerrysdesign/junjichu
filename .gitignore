@@ -1,0 +1,30 @@
+## OS
+.DS_Store
+.DS_Store?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+## Node
+node_modules
+npm-debug.log
+
+## Bower
+bower_components
+src/scss/vendors
+
+## Backup
+*~
+
+## Build
+dist
+
